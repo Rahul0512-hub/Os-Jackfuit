@@ -1,2 +1,2 @@
-# Os-Jackfuit
+# OS-Jackfruit
 OS Jackfruit problem
